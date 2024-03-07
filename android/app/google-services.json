@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823563048203",
+    "project_id": "expofcm-f2ac5",
+    "storage_bucket": "expofcm-f2ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823563048203:android:477227ca22e503dc81fe0e",
+        "android_client_info": {
+          "package_name": "com.app.demofcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmD6Fbm2KDOD_Alih7YR330V7nd_rvtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
